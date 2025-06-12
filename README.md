@@ -48,4 +48,4 @@ python extract_wechat_cover.py
 
 GitHub: [SorakageMeiou]  
 邮箱：[SorakageMo@qq.com]  
-B站页：[https://space.bilibili.com/366462635]
+B站页：「[空影メイオウ](https://space.bilibili.com/366462635)」
